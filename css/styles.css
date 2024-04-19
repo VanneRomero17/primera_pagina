@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color: burlywood;
+}
+h2 {
+    text-align:unset;
+    color:burlywood;
+}
+#titulo_2 {
+    text-align: end;
+}
+
+.color {
+    color: burlywood;
+}
+
+body{background-image:url(https://images8.alphacoders.com/730/730475.jpg)
+
+}
+.contenedor {
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    justify-content: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+#baloncesto {
+    width: 200px;
+    height: 110px;
+}
